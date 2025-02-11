@@ -8,7 +8,7 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.The game
 1. Rock beats Scissors
 2. Scissors beats Paper
 3. Paper beats Rock
-<br><br>
+<br>
 Features
 <br>
 1.Interactive UI with buttons for Rock, Paper, and Scissors.
