@@ -9,20 +9,20 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.The game
 2. Scissors beats Paper
 3. Paper beats Rock
 <br>
-Features
+Features:
 <br><br>
 1.Interactive UI with buttons for Rock, Paper, and Scissors.<br>
 2.Displays game results instantly.<br>
 3.Keeps track of player and computer scores.<br>
 4.Responsive design for various screen sizes.
 <br><br>
-Technologies Used
+Technologies Used:
 <br><br>
 HTML<br>
 CSS<br>
 JavaScript<br>
 <br>
-How to Play
+How to Play:
 <br>
 Open the game in a web browser.
 Click on Rock, Paper, or Scissors.
