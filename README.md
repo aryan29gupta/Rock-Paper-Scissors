@@ -11,9 +11,9 @@ A simple Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.The game
 <br>
 Features
 <br>
-1.Interactive UI with buttons for Rock, Paper, and Scissors.
-2.Displays game results instantly.
-3.Keeps track of player and computer scores.
+1.Interactive UI with buttons for Rock, Paper, and Scissors.<br>
+2.Displays game results instantly.<br>
+3.Keeps track of player and computer scores.<br>
 4.Responsive design for various screen sizes.
 <br><br>
 Technologies Used
