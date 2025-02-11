@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor
+# Rock-Paper-Scissors
 Rock-Paper-Scissors Game
 <br><br>
 Description
